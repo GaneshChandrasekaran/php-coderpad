@@ -4,7 +4,7 @@
 * Xdebug 3
 
 ## Debug script
-`php -dxdebug.start_with_request=yes -dxdebug.mode=debug -dxdebug.client_host=127.0.0.1 -dxdebug.client_port=9000 Solution.php`
+`php -dxdebug.start_with_request=yes -dxdebug.mode=debug -dxdebug.client_host=127.0.0.1 -dxdebug.client_port=9000 src/Solution.php`
 
 ## Run unit tests
 `vendor/bin/phpunit tests/SolutionTest.php`

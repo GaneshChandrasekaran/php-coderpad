@@ -10,6 +10,5 @@ class Solution
     }
 }
 
-// For debugging uncomment lines below
-//$solution = new Solution();
-//$solution->test();
+$solution = new Solution();
+$solution->test();
