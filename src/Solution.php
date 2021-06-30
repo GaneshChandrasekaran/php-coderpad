@@ -11,4 +11,4 @@ class Solution
 }
 
 $solution = new Solution();
-$solution->test();
+var_dump($solution->test());
